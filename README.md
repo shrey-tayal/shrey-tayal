@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Current a student at NYU
+Currently a student at NYU
 
 <!--
 **shrey-tayal/shrey-tayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
